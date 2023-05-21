@@ -15,10 +15,14 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home:  MyHomePage(),
+      home: MyHomePage(),
     );
   }
 }
+
+//devDiariesWithVee on Instagram
+//devDiariesWithVee on Youtube
+//vaidehi2701 on Github
 
 class MyHomePage extends StatelessWidget {
   final List<String> imageList = [
@@ -29,15 +33,12 @@ class MyHomePage extends StatelessWidget {
     'assets/images/a5.jpg',
   ];
 
-   MyHomePage({super.key});
+  MyHomePage({super.key});
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.black87,
-      appBar: AppBar(
-        title: const Text('Focus Item Animation'),
-      ),
       body: Padding(
         padding: const EdgeInsets.only(top: 70),
         child: SizedBox(

@@ -13,5 +13,5 @@ Without any External Package i tried to give amazing hover animation on focus it
 
 <a href="https://www.buymeacoffee.com/vaidehishah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-<img src="https://github.com/vaidehi2701/animated_opacity/assets/55477266/4f560888-1915-46cc-97a4-561c3fcd439d" width="300" height="550" />
+<img src="https://github.com/vaidehi2701/animated_opacity/assets/55477266/2cfac6d6-eebf-4a4c-9940-ee65214f483b" width="300" height="550" />
 

@@ -15,3 +15,12 @@ Without any External Package i tried to give amazing hover animation on focus it
 
 <img src="https://github.com/vaidehi2701/animated_opacity/assets/55477266/2cfac6d6-eebf-4a4c-9940-ee65214f483b" width="300" height="550" />
 
+### 📺&ensp;Watch Video
+
+##### [YouTube video](https://youtu.be/GG8KlJ_g6Q4 "Youtube DevDiariesWithVee") where the *source code* is explained. [Subscribe YouTube channel.](https://www.youtube.com/@DevDiariesWithVee?sub_confirmation=1 "YouTube Subscribe DevDiariesWithVee")  
+<a href="https://youtu.be/GG8KlJ_g6Q4&feature=player_embedded
+" target="_blank"><img src="https://github.com/vaidehi2701/animated_opacity/assets/55477266/bca0cd87-e4f2-48cb-bdc8-a8eeb04592ec" 
+alt="Flutter Focus Item Anomation YouTube video" width="480" border="10" /></a>
+
+➜&ensp;[Watch My Video](https://youtu.be/GG8KlJ_g6Q4 "Watch My Video")
+
